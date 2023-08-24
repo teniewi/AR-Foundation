@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 5779233128322695882}
   - component: {fileID: 4748464050859794796}
   - component: {fileID: 594162072775323044}
-  - component: {fileID: 4049900852686719925}
+  - component: {fileID: 8927009030496534439}
   m_Layer: 0
   m_Name: SKELDAR_V200
   m_TagString: Untagged
@@ -273,7 +273,7 @@ MonoBehaviour:
   sensitivity: 1
   damping: -1
   remainingScale: {x: 0, y: 0, z: 0}
---- !u!114 &4049900852686719925
+--- !u!114 &8927009030496534439
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
